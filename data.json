@@ -80,6 +80,21 @@
       "desc": "Set up Render account for hosting/deployments",
       "status": "backlog",
       "tags": ["work"]
+    },
+    {
+      "id": "12",
+      "title": "Clawdbot Backup System",
+      "desc": "Backup config, workspace, cron jobs to GitHub (private repo). Disaster recovery if Mac dies.",
+      "status": "backlog",
+      "tags": ["work"],
+      "priority": "high"
+    },
+    {
+      "id": "13",
+      "title": "Telegram for Notifications",
+      "desc": "Add Telegram channel for push notifications (WhatsApp self-chat doesn't alert)",
+      "status": "backlog",
+      "tags": ["work"]
     }
   ]
 }
