@@ -70,8 +70,8 @@
     {
       "id": "10",
       "title": "Remote Kanban Access",
-      "desc": "Host board somewhere Lars can access away from Mac",
-      "status": "backlog",
+      "desc": "Live at larspnw.github.io/chad-board",
+      "status": "done",
       "tags": ["work"]
     },
     {
