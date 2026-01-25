@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chad's Board</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: #1a1a2e;
+      color: #eee;
+      min-height: 100vh;
+      padding: 20px;
+    }
+    header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 24px;
+      padding-bottom: 16px;
+      border-bottom: 1px solid #333;
+    }
+    h1 { font-size: 24px; font-weight: 600; }
+    h1 span { opacity: 0.6; font-weight: 400; }
+    .refresh-btn {
+      background: #4a4a6a;
+      border: none;
+      color: #fff;
+      padding: 8px 16px;
+      border-radius: 6px;
+      cursor: pointer;
+      font-size: 14px;
+    }
+    .refresh-btn:hover { background: #5a5a7a; }
+    .updated { font-size: 12px; opacity: 0.5; margin-top: 4px; }
+    .board {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 16px;
+      max-width: 1400px;
+    }
+    .column {
+      background: #252540;
+      border-radius: 12px;
+      padding: 16px;
+      min-height: 400px;
+    }
+    .column-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 16px;
+      padding-bottom: 12px;
+      border-bottom: 2px solid;
+    }
+    .column-title {
+      font-weight: 600;
+      font-size: 14px;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+    .column-count {
+      background: rgba(255,255,255,0.1);
+      padding: 2px 8px;
+      border-radius: 10px;
+      font-size: 12px;
+    }
+    .col-backlog .column-header { border-color: #666; }
+    .col-active .column-header { border-color: #f39c12; }
+    .col-waiting .column-header { border-color: #9b59b6; }
+    .col-done .column-header { border-color: #27ae60; }
+    .card {
+      background: #1a1a2e;
+      border-radius: 8px;
+      padding: 12px;
+      margin-bottom: 10px;
+      border-left: 3px solid #4a4a6a;
+    }
+    .card-title {
+      font-weight: 500;
+      margin-bottom: 6px;
+      font-size: 14px;
+    }
+    .card-desc {
+      font-size: 12px;
+      opacity: 0.7;
+      line-height: 1.4;
+    }
+    .card-meta {
+      display: flex;
+      gap: 8px;
+      margin-top: 8px;
+      flex-wrap: wrap;
+    }
+    .tag {
+      font-size: 10px;
+      padding: 2px 6px;
+      border-radius: 4px;
+      background: #4a4a6a;
+    }
+    .tag-work { background: #2980b9; }
+    .tag-personal { background: #27ae60; }
+    .tag-auto { background: #8e44ad; }
+    .tag-research { background: #d35400; }
+    .priority-high { border-left-color: #e74c3c; }
+    .priority-med { border-left-color: #f39c12; }
+    .empty-state {
+      text-align: center;
+      padding: 40px 20px;
+      opacity: 0.4;
+      font-size: 13px;
+    }
+    @media (max-width: 900px) {
+      .board { grid-template-columns: 1fr 1fr; }
+    }
+    @media (max-width: 500px) {
+      .board { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div>
+      <h1>🤙 Chad's Board <span>— What I'm working on</span></h1>
+      <div class="updated" id="updated"></div>
+    </div>
+    <button class="refresh-btn" onclick="loadData()">↻ Refresh</button>
+  </header>
+  
+  <div class="board">
+    <div class="column col-backlog">
+      <div class="column-header">
+        <span class="column-title">📋 Backlog</span>
+        <span class="column-count" id="count-backlog">0</span>
+      </div>
+      <div id="backlog"></div>
+    </div>
+    
+    <div class="column col-active">
+      <div class="column-header">
+        <span class="column-title">🔥 Active</span>
+        <span class="column-count" id="count-active">0</span>
+      </div>
+      <div id="active"></div>
+    </div>
+    
+    <div class="column col-waiting">
+      <div class="column-header">
+        <span class="column-title">⏳ Waiting</span>
+        <span class="column-count" id="count-waiting">0</span>
+      </div>
+      <div id="waiting"></div>
+    </div>
+    
+    <div class="column col-done">
+      <div class="column-header">
+        <span class="column-title">✅ Done</span>
+        <span class="column-count" id="count-done">0</span>
+      </div>
+      <div id="done"></div>
+    </div>
+  </div>
+
+  <script>
+    async function loadData() {
+      try {
+        const res = await fetch('data.json?' + Date.now());
+        const data = await res.json();
+        render(data);
+      } catch (e) {
+        console.error('Failed to load data:', e);
+      }
+    }
+
+    function render(data) {
+      const cols = { backlog: [], active: [], waiting: [], done: [] };
+      
+      data.tasks.forEach(task => {
+        if (cols[task.status]) cols[task.status].push(task);
+      });
+
+      Object.keys(cols).forEach(col => {
+        const container = document.getElementById(col);
+        const count = document.getElementById('count-' + col);
+        count.textContent = cols[col].length;
+        
+        if (cols[col].length === 0) {
+          container.innerHTML = '<div class="empty-state">Nothing here</div>';
+        } else {
+          container.innerHTML = cols[col].map(task => `
+            <div class="card ${task.priority ? 'priority-' + task.priority : ''}">
+              <div class="card-title">${task.title}</div>
+              ${task.desc ? `<div class="card-desc">${task.desc}</div>` : ''}
+              <div class="card-meta">
+                ${(task.tags || []).map(t => `<span class="tag tag-${t}">${t}</span>`).join('')}
+              </div>
+            </div>
+          `).join('');
+        }
+      });
+
+      document.getElementById('updated').textContent = 
+        'Last updated: ' + new Date(data.updated).toLocaleString();
+    }
+
+    loadData();
+    setInterval(loadData, 30000); // Auto-refresh every 30s
+  </script>
+</body>
+</html>

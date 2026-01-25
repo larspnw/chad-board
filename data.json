@@ -1,0 +1,85 @@
+{
+  "updated": "2026-01-25T02:55:00Z",
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Morning Briefing",
+      "desc": "Daily 7am briefing with tasks, news, snow reports, and 3 suggestions",
+      "status": "active",
+      "tags": ["auto"],
+      "priority": "high"
+    },
+    {
+      "id": "2",
+      "title": "Options Premium Alerts",
+      "desc": "Monitor 29 tickers for wheel strategy opportunities (VIX, earnings, pullbacks)",
+      "status": "active",
+      "tags": ["auto"],
+      "priority": "med"
+    },
+    {
+      "id": "3",
+      "title": "Seahawks Super Bowl Trip",
+      "desc": "If Hawks win NFC Championship → search flights/hotels for Super Bowl LX",
+      "status": "waiting",
+      "tags": ["personal"],
+      "priority": "high"
+    },
+    {
+      "id": "4",
+      "title": "WSMTB Race Weather",
+      "desc": "Weather checks night before each race (Swan Creek 2/1, Soaring Eagle 2/8, etc)",
+      "status": "active",
+      "tags": ["auto", "personal"]
+    },
+    {
+      "id": "5",
+      "title": "Todoist Integration",
+      "desc": "API connected, pulling tasks for morning briefings",
+      "status": "done",
+      "tags": ["work"]
+    },
+    {
+      "id": "6",
+      "title": "WhatsApp Connection",
+      "desc": "Self-chat mode working for messages",
+      "status": "done",
+      "tags": ["work"]
+    },
+    {
+      "id": "7",
+      "title": "GitHub Access",
+      "desc": "Connected as larspnw - full repo access",
+      "status": "done",
+      "tags": ["work"]
+    },
+    {
+      "id": "8",
+      "title": "Obsidian Integration",
+      "desc": "CLI installed, need vault path configured",
+      "status": "backlog",
+      "tags": ["work"]
+    },
+    {
+      "id": "9",
+      "title": "Gmail Integration",
+      "desc": "Not yet set up - needs OAuth or CLI tool",
+      "status": "backlog",
+      "tags": ["work"]
+    },
+    {
+      "id": "10",
+      "title": "Remote Kanban Access",
+      "desc": "Host board somewhere Lars can access away from Mac",
+      "status": "backlog",
+      "tags": ["work"]
+    },
+    {
+      "id": "11",
+      "title": "Render Setup",
+      "desc": "Set up Render account for hosting/deployments",
+      "status": "backlog",
+      "tags": ["work"]
+    }
+  ]
+}
