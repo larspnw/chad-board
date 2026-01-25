@@ -84,8 +84,8 @@
     {
       "id": "12",
       "title": "Clawdbot Backup System",
-      "desc": "Backup config, workspace, cron jobs to GitHub (private repo). Disaster recovery if Mac dies.",
-      "status": "backlog",
+      "desc": "Done! github.com/larspnw/clawdbot-backup - run backup.sh to update",
+      "status": "done",
       "tags": ["work"],
       "priority": "high"
     },
