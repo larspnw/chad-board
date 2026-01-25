@@ -92,8 +92,8 @@
     {
       "id": "13",
       "title": "Telegram for Notifications",
-      "desc": "Add Telegram channel for push notifications (WhatsApp self-chat doesn't alert)",
-      "status": "backlog",
+      "desc": "Telegram connected - all automated messages now go here",
+      "status": "done",
       "tags": ["work"]
     }
   ]
