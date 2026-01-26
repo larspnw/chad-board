@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-25T15:09:00Z",
+  "updated": "2026-01-26T15:00:00Z",
   "tasks": [
     {
       "id": "1",
@@ -20,8 +20,8 @@
     {
       "id": "3",
       "title": "Seahawks Super Bowl Trip",
-      "desc": "If Hawks win NFC Championship TODAY → search flights/hotels for Super Bowl LX",
-      "status": "waiting",
+      "desc": "HAWKS WON 31-27! Super Bowl LX @ Levi's Stadium Feb 8. Flight/hotel search ready - awaiting Lars's go-ahead.",
+      "status": "active",
       "tags": ["personal"],
       "priority": "high"
     },
