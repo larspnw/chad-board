@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-26T15:00:00Z",
+  "updated": "2026-01-28T15:00:00Z",
   "tasks": [
     {
       "id": "1",
@@ -95,6 +95,14 @@
       "desc": "Telegram connected - all automated messages now go here",
       "status": "done",
       "tags": ["work"]
+    },
+    {
+      "id": "14",
+      "title": "Jira Bug Analyzer Design",
+      "desc": "Spec out architecture: Jira API + codebase indexing + AI triage for auto bug analysis. Awaiting go-ahead.",
+      "status": "backlog",
+      "tags": ["work", "ai"],
+      "priority": "med"
     }
   ]
 }
