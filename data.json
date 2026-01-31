@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-29T15:00:00Z",
+  "updated": "2026-01-30T19:05:00Z",
   "tasks": [
     {
       "id": "1",
@@ -7,7 +7,9 @@
       "desc": "Daily 7am briefing with tasks, news, snow reports, and 3 suggestions",
       "status": "active",
       "tags": ["auto"],
-      "priority": "high"
+      "priority": "high",
+      "lastRun": "2026-01-31T15:05:00Z",
+      "notes": "Completed: AI coding trends, MTB news, kettlebell research, Snoqualmie conditions poor"
     },
     {
       "id": "2",
@@ -103,6 +105,14 @@
       "status": "backlog",
       "tags": ["work", "ai"],
       "priority": "med"
+    },
+    {
+      "id": "15",
+      "title": "Dashboard Refresh Status Test",
+      "desc": "Testing new refresh status indicator - should show when last refresh occurred",
+      "status": "active",
+      "tags": ["test", "ui"],
+      "priority": "low"
     }
   ]
 }
