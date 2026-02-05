@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-30T19:05:00Z",
+  "updated": "2026-02-05T15:00:00Z",
   "tasks": [
     {
       "id": "1",
@@ -8,8 +8,8 @@
       "status": "active",
       "tags": ["auto"],
       "priority": "high",
-      "lastRun": "2026-02-04T15:00:00Z",
-      "notes": "11 tasks due today (VAI accuracy, appsec kickoff, all-hands prep). Harvard exercise variety study. Seahawks Super Bowl Sat!"
+      "lastRun": "2026-02-05T15:00:00Z",
+      "notes": "2 overdue, 4 due today (appsec kickoff, all-hands prep, VAI accuracy). AI coding: 100% AI-written code at Anthropic/OpenAI. 32\" MTB wheels trending. Swan Creek race Sat."
     },
     {
       "id": "2",
@@ -32,7 +32,8 @@
       "title": "WSMTB Race Weather",
       "desc": "Weather checks night before each race (Swan Creek 2/1, Soaring Eagle 2/8, etc)",
       "status": "active",
-      "tags": ["auto", "personal"]
+      "tags": ["auto", "personal"],
+      "notes": "Swan Creek race this Saturday (Feb 8). Will check weather tonight."
     },
     {
       "id": "5",
