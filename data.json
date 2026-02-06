@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-05T15:00:00Z",
+  "updated": "2026-02-06T15:00:00Z",
   "tasks": [
     {
       "id": "1",
@@ -9,7 +9,7 @@
       "tags": ["auto"],
       "priority": "high",
       "lastRun": "2026-02-05T15:00:00Z",
-      "notes": "2 overdue, 4 due today (appsec kickoff, all-hands prep, VAI accuracy). AI coding: 100% AI-written code at Anthropic/OpenAI. 32\" MTB wheels trending. Swan Creek race Sat."
+      "notes": "1 due today (CodeQL review). Weekend: Super Bowl Sunday (Hawks!), WSMTB Soaring Eagle race Feb 8. AI study: devs 19% slower with AI tools. Cyclocross Worlds wrapped in France."
     },
     {
       "id": "2",
