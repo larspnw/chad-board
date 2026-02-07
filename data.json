@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-06T15:00:00Z",
+  "updated": "2026-02-07T15:05:00Z",
   "tasks": [
     {
       "id": "1",
@@ -8,8 +8,8 @@
       "status": "active",
       "tags": ["auto"],
       "priority": "high",
-      "lastRun": "2026-02-05T15:00:00Z",
-      "notes": "1 due today (CodeQL review). Weekend: Super Bowl Sunday (Hawks!), WSMTB Soaring Eagle race Feb 8. AI study: devs 19% slower with AI tools. Cyclocross Worlds wrapped in France."
+      "lastRun": "2026-02-07T15:05:00Z",
+      "notes": "Saturday briefing: AI IDE wars (Cursor $2.3B, Claude Code rising). Soaring Eagle race tomorrow 10am - 48°F, dry, perfect conditions. Super Bowl vs race conflict needs decision."
     },
     {
       "id": "2",
@@ -33,7 +33,7 @@
       "desc": "Weather checks night before each race (Swan Creek 2/1, Soaring Eagle 2/8, etc)",
       "status": "active",
       "tags": ["auto", "personal"],
-      "notes": "Swan Creek race this Saturday (Feb 8). Will check weather tonight."
+      "notes": "Soaring Eagle tomorrow (Sun Feb 8) 10am: 48°F, overcast, dry. Perfect XC conditions."
     },
     {
       "id": "5",
