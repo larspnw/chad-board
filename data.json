@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-07T15:05:00Z",
+  "updated": "2026-02-11T15:07:00Z",
   "tasks": [
     {
       "id": "1",
@@ -8,8 +8,8 @@
       "status": "active",
       "tags": ["auto"],
       "priority": "high",
-      "lastRun": "2026-02-07T15:05:00Z",
-      "notes": "Saturday briefing: AI IDE wars (Cursor $2.3B, Claude Code rising). Soaring Eagle race tomorrow 10am - 48°F, dry, perfect conditions. Super Bowl vs race conflict needs decision."
+      "lastRun": "2026-02-11T15:07:00Z",
+      "notes": "Feb 11: Clean task slate. AI coding market $4B, Cursor $29.3B. NVIDIA 30K engineers on Cursor. Man City vs Fulham 11:30am. Seahawks ranked historic."
     },
     {
       "id": "2",
@@ -22,10 +22,11 @@
     {
       "id": "3",
       "title": "Seahawks Super Bowl Trip",
-      "desc": "HAWKS WON 31-27! Super Bowl LX @ Levi's Stadium Feb 8. Flight/hotel search ready - awaiting Lars's go-ahead.",
-      "status": "active",
+      "desc": "HAWKS WON 29-13! Super Bowl LX complete. ESPN ranks 2025 Seahawks among greatest teams ever.",
+      "status": "done",
       "tags": ["personal"],
-      "priority": "high"
+      "priority": "high",
+      "notes": "Super Bowl LX Feb 8 - Seahawks 29, Patriots 13. JSN broke DK's receiving record (1,793 yds)."
     },
     {
       "id": "4",
@@ -33,7 +34,7 @@
       "desc": "Weather checks night before each race (Swan Creek 2/1, Soaring Eagle 2/8, etc)",
       "status": "active",
       "tags": ["auto", "personal"],
-      "notes": "Race DAY (Sun Feb 8) 10am — weather confirmed: 48°F, overcast, dry. Good luck!"
+      "notes": "Soaring Eagle (Feb 8) complete. Next race TBD - check WSMTB calendar."
     },
     {
       "id": "5",
@@ -59,8 +60,8 @@
     {
       "id": "8",
       "title": "Obsidian Integration",
-      "desc": "CLI installed, need vault path configured",
-      "status": "backlog",
+      "desc": "Vault path configured. 1 item in inbox (Lethain articles).",
+      "status": "done",
       "tags": ["work"]
     },
     {
@@ -102,7 +103,7 @@
     {
       "id": "14",
       "title": "Jira Bug Analyzer Design",
-      "desc": "Spec out architecture: Jira API + codebase indexing + AI triage for auto bug analysis. Awaiting go-ahead.",
+      "desc": "Spec out architecture: Jira API + codebase indexing + AI triage for auto bug analysis. Offered in briefing.",
       "status": "backlog",
       "tags": ["work", "ai"],
       "priority": "med"
