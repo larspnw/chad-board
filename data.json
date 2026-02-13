@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-12T15:08:00Z",
+  "updated": "2026-02-13T15:00:00Z",
   "tasks": [
     {
       "id": "1",
@@ -8,8 +8,8 @@
       "status": "active",
       "tags": ["auto"],
       "priority": "high",
-      "lastRun": "2026-02-12T15:08:00Z",
-      "notes": "Feb 12: Todoist API 410 error—needs new token. Generative coding named 2026 Breakthrough Tech. Strength training overtakes weight loss as #1 fitness goal."
+      "lastRun": "2026-02-13T15:00:00Z",
+      "notes": "Feb 13: Todoist working! Weekly review due Mon. AI coding tools comparison (Cursor vs Copilot vs Claude). Hit rate limits on other news searches. Offered Jira bug analyzer, weekly review prep, FE quality dashboard."
     },
     {
       "id": "2",
@@ -39,8 +39,8 @@
     {
       "id": "5",
       "title": "Todoist Integration",
-      "desc": "API needs new token—Todoist deprecated REST v2 endpoints",
-      "status": "active",
+      "desc": "Working! Using REST v1 API endpoint.",
+      "status": "done",
       "tags": ["work"],
       "priority": "high"
     },
