@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-13T15:00:00Z",
+  "updated": "2026-02-15T15:00:00Z",
   "tasks": [
     {
       "id": "1",
@@ -8,8 +8,8 @@
       "status": "active",
       "tags": ["auto"],
       "priority": "high",
-      "lastRun": "2026-02-13T15:00:00Z",
-      "notes": "Feb 13: Todoist working! Weekly review due Mon. AI coding tools comparison (Cursor vs Copilot vs Claude). Hit rate limits on other news searches. Offered Jira bug analyzer, weekly review prep, FE quality dashboard."
+      "lastRun": "2026-02-15T15:00:00Z",
+      "notes": "Feb 15 (Sun): Added Reddit roundup (4 threads: XC training, wheel strategy, Cursor vs Claude). 4\" fresh snow at Snoqualmie. Offered: Tetris GitHub sync, Todoist burndown analyzer, thetagang CSP scanner."
     },
     {
       "id": "2",
@@ -116,6 +116,14 @@
       "status": "active",
       "tags": ["test", "ui"],
       "priority": "low"
+    },
+    {
+      "id": "16",
+      "title": "Todoist Weekly Burndown Analyzer",
+      "desc": "Parse task completion patterns, identify bottlenecks. Insights on work vs personal completion rates, overdue trends, priority distribution.",
+      "status": "backlog",
+      "tags": ["work", "ai", "productivity"],
+      "priority": "med"
     }
   ]
 }
