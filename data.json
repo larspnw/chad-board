@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-16T15:00:00Z",
+  "updated": "2026-02-17T15:00:00Z",
   "tasks": [
     {
       "id": "1",
@@ -9,7 +9,7 @@
       "tags": ["auto"],
       "priority": "high",
       "lastRun": "2026-02-16T15:00:00Z",
-      "notes": "Feb 16 (Mon): 50 tasks (1 due today: weekly review). News: MIT names AI coding 'Breakthrough Tech 2026', cyclocross may join Winter Olympics, CTOs shifting to AI-first arch. Reddit: XC training tips, wheel strategy success stories, enterprise Claude adoption. Offered: Jira bug analyzer architecture, weekly review pre-read, superadmin scoping doc."
+      "notes": "Feb 17 (Tue): 50 tasks, 0 overdue, 0 due this week. News: Amazon pushing 80% devs to AI coding weekly, Anthropic $20B pre-IPO round, BC Bike Fest May 29-31 Vancouver Island, ACSM names kettlebells top 2026 trend. Reddit: xcmtb 2026 race schedules, r/ClaudeAI team productivity reframe, thetagang wheel strategy. Offered: superadmin scoping doc, manager quality one-pager, FY27 OKR+bonus framework starter."
     },
     {
       "id": "2",
