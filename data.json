@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-17T15:00:00Z",
+  "updated": "2026-02-18T15:00:00Z",
   "tasks": [
     {
       "id": "1",
@@ -8,8 +8,8 @@
       "status": "active",
       "tags": ["auto"],
       "priority": "high",
-      "lastRun": "2026-02-16T15:00:00Z",
-      "notes": "Feb 17 (Tue): 50 tasks, 0 overdue, 0 due this week. News: Amazon pushing 80% devs to AI coding weekly, Anthropic $20B pre-IPO round, BC Bike Fest May 29-31 Vancouver Island, ACSM names kettlebells top 2026 trend. Reddit: xcmtb 2026 race schedules, r/ClaudeAI team productivity reframe, thetagang wheel strategy. Offered: superadmin scoping doc, manager quality one-pager, FY27 OKR+bonus framework starter."
+      "lastRun": "2026-02-18T15:00:00Z",
+      "notes": "Feb 18 (Wed): 50 tasks, 0 overdue, 0 due today. Due this week: weekly review (Feb 23), pay bills (Feb 25). P1 work: quality/latency/reliability/burndown/OKRs/superadmin scoping. News: Amazon 80% devs AI weekly, Cohere $240M ARR, BC Bike Fest May 29-31. Reddit: xcmtb 2026 schedule thread, ExperiencedDevs AI rollout research. Offered: superadmin scoping doc, manager quality one-pager, FY27 OKR+bonus framework."
     },
     {
       "id": "2",
@@ -31,10 +31,10 @@
     {
       "id": "4",
       "title": "WSMTB Race Weather",
-      "desc": "Weather checks night before each race (Swan Creek 2/1, Soaring Eagle 2/8, etc)",
+      "desc": "Weather checks night before each race. Next: Dash Point Feb 22 (weather cron fires Feb 21)",
       "status": "active",
       "tags": ["auto", "personal"],
-      "notes": "Soaring Eagle (Feb 8) complete. Next race TBD - check WSMTB calendar."
+      "notes": "Soaring Eagle (Feb 8) complete. Next: Dash Point @ Federal Way Feb 22."
     },
     {
       "id": "5",
@@ -124,6 +124,22 @@
       "status": "backlog",
       "tags": ["work", "ai", "productivity"],
       "priority": "med"
+    },
+    {
+      "id": "17",
+      "title": "Superadmin Scoping Doc",
+      "desc": "Draft scoping brief: what superadmin is, key decisions, rough effort/duration. Offered Feb 18.",
+      "status": "backlog",
+      "tags": ["work"],
+      "priority": "high"
+    },
+    {
+      "id": "18",
+      "title": "Manager Quality One-Pager (FY27)",
+      "desc": "Framework: what metrics each mgr owns, how tracked, FY27 expectations. Offered Feb 18.",
+      "status": "backlog",
+      "tags": ["work"],
+      "priority": "high"
     }
   ]
 }
