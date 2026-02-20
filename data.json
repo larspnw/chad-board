@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-19T15:00:00Z",
+  "updated": "2026-02-20T15:05:00Z",
   "tasks": [
     {
       "id": "1",
@@ -8,8 +8,8 @@
       "status": "active",
       "tags": ["auto"],
       "priority": "high",
-      "lastRun": "2026-02-19T15:00:00Z",
-      "notes": "Feb 19 (Thu): 50 tasks, 0 overdue, 0 due today. Due this week: weekly review (Feb 23), pay bills (Feb 25). P1 work: quality/latency/reliability/burndown/OKRs/superadmin scoping. News: Kimi Code #4 in AI dev rankings, Runway $315M at $5.3B, BC Bike Fest May 29-31 Vancouver Island. Reddit: xcmtb 2026 schedule, thetagang value-investor wheel screening, ExperiencedDevs Claude Code adoption wins. Offered: superadmin scope doc, FY27 OKR+bonus template, AI impact measurement one-pager."
+      "lastRun": "2026-02-20T15:05:00Z",
+      "notes": "Feb 20 (Fri): Todoist API deprecated - need v1 migration. News: Claude Code $1B revenue, vibe coding mainstream, AI Toolkit Agent Inspector, generative coding = MIT breakthrough. Reddit: thetagang wheel deep-dive, xcmtb training protocols, Claude vs Cursor breakdown. Offered: fix Todoist API, Dash Point race prep, AI coding team rollout proposal."
     },
     {
       "id": "2",
@@ -39,10 +39,11 @@
     {
       "id": "5",
       "title": "Todoist Integration",
-      "desc": "Working! Using REST v1 API endpoint.",
-      "status": "done",
+      "desc": "API deprecated - need to migrate to new v1 endpoints for task fetching",
+      "status": "active",
       "tags": ["work"],
-      "priority": "high"
+      "priority": "high",
+      "notes": "Feb 20: REST v2 endpoint deprecated. Need to implement new /api/v1/tasks format."
     },
     {
       "id": "6",
@@ -140,6 +141,24 @@
       "status": "backlog",
       "tags": ["work"],
       "priority": "high"
+    },
+    {
+      "id": "19",
+      "title": "Dash Point Race Prep (Feb 22)",
+      "desc": "Pull trail conditions from Trailforks + create pre-race checklist for WSMTB Dash Point XC",
+      "status": "backlog",
+      "tags": ["personal", "mtb"],
+      "priority": "med",
+      "notes": "Weather cron fires Feb 21 at 11am. Can add Trailforks trail conditions + race day checklist."
+    },
+    {
+      "id": "20",
+      "title": "AI Coding Tools Team Rollout Proposal",
+      "desc": "Draft Claude Code adoption strategy with cost breakdown and pilot program structure",
+      "status": "backlog",
+      "tags": ["work", "ai"],
+      "priority": "med",
+      "notes": "MIT named generative coding a 2026 breakthrough. Opportunity to formalize team adoption plan."
     }
   ]
 }
