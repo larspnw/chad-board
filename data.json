@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-21T15:05:00Z",
+  "updated": "2026-02-22T15:00:00Z",
   "tasks": [
     {
       "id": "1",
@@ -8,8 +8,8 @@
       "status": "active",
       "tags": ["auto"],
       "priority": "high",
-      "lastRun": "2026-02-21T15:05:00Z",
-      "notes": "Feb 21 (Sat): Weekend briefing. News: Cursor vs Claude Code battle intensifying (Claude winning on deep reasoning), 17 US AI startups raised $100M+, Runway $5.3B, OpenAI equity comp model. MTB: BC Bike Fest registration open, 2026 XC geometry trending slacker. Reddit: wheel strategy reality check, 30-45 DTE sweet spot, free kettlebell EMOM tracker. Offered: Dash Point race nutrition plan, weekly burndown analysis for 1:1s, backcountry ski route research."
+      "lastRun": "2026-02-22T15:00:00Z",
+      "notes": "Feb 22 (Sun): Weekend briefing. News: Kimi Code debuts (terminal companion to Kimi K2.5), VS Code AI Toolkit v0.30.0 (Tool Catalog + Agent Inspector), GPT 5.2 vs Opus 4.5 vs Gemini 3 Pro comparison. MTB: BC Bike Fest new races launched, Epic 8 getting rave reviews (Flight Attendant). Kettlebell: Hybrid Strength Flow trend for 2026. Snow: Fresh powder at Snoqualmie Pass (snow this morning + afternoon, temps ~30°F). Reddit: XC race schedules, Epic 8 builds, S&S progression, wheel strategy CSP closing debates. Offered: FE quality dashboard spec, Dash Point race intel compilation, kettlebell progression audit."
     },
     {
       "id": "2",
