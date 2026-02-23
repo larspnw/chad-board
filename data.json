@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-22T15:00:00Z",
+  "updated": "2026-02-23T15:00:00Z",
   "tasks": [
     {
       "id": "1",
@@ -8,8 +8,8 @@
       "status": "active",
       "tags": ["auto"],
       "priority": "high",
-      "lastRun": "2026-02-22T15:00:00Z",
-      "notes": "Feb 22 (Sun): Weekend briefing. News: Kimi Code debuts (terminal companion to Kimi K2.5), VS Code AI Toolkit v0.30.0 (Tool Catalog + Agent Inspector), GPT 5.2 vs Opus 4.5 vs Gemini 3 Pro comparison. MTB: BC Bike Fest new races launched, Epic 8 getting rave reviews (Flight Attendant). Kettlebell: Hybrid Strength Flow trend for 2026. Snow: Fresh powder at Snoqualmie Pass (snow this morning + afternoon, temps ~30°F). Reddit: XC race schedules, Epic 8 builds, S&S progression, wheel strategy CSP closing debates. Offered: FE quality dashboard spec, Dash Point race intel compilation, kettlebell progression audit."
+      "lastRun": "2026-02-23T15:00:00Z",
+      "notes": "Feb 23 (Mon): Weekday briefing. Todoist: 50 tasks, 1 due today (run financial prompts), 1 this week (pay bills 2/25). News: Cursor vs Claude Code - Claude wins repo-level understanding, Cursor on speed. USA Cycling XC Nationals May 1-3 VA. Hybrid Strength Flow kettlebell trend. Reddit: XC training 50/50 Z2/Z3, thetagang wheel struggles VIX<15, Claude Code better at refactoring. Offered: Jira bug analyzer spec, FE quality dashboard, VAI v2 execution plan."
     },
     {
       "id": "2",
