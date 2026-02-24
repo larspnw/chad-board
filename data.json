@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-23T15:00:00Z",
+  "updated": "2026-02-24T15:00:00Z",
   "tasks": [
     {
       "id": "1",
@@ -8,8 +8,8 @@
       "status": "active",
       "tags": ["auto"],
       "priority": "high",
-      "lastRun": "2026-02-23T15:00:00Z",
-      "notes": "Feb 23 (Mon): Weekday briefing. Todoist: 50 tasks, 1 due today (run financial prompts), 1 this week (pay bills 2/25). News: Cursor vs Claude Code - Claude wins repo-level understanding, Cursor on speed. USA Cycling XC Nationals May 1-3 VA. Hybrid Strength Flow kettlebell trend. Reddit: XC training 50/50 Z2/Z3, thetagang wheel struggles VIX<15, Claude Code better at refactoring. Offered: Jira bug analyzer spec, FE quality dashboard, VAI v2 execution plan."
+      "lastRun": "2026-02-24T15:00:00Z",
+      "notes": "Feb 24 (Tue): Weekday briefing. Todoist: 47 tasks, 1 overdue (JPM DDQ doc), 1 tomorrow (pay bills 2/25). News: Claude Code + Cursor dominating 2026, Mira Murati's $2B raise, AI Second Wave shift to products. BC Bike Fest 2026 races. Reddit: XC nutrition (sugar intake golden), thetagang CSPs for volatility, r/ExperiencedDevs on Claude Code adoption + CTO 3mo AI progress. Offered: JPM DDQ strategy doc, Jira bug analyzer prototype, FE quality dashboard for Sasha ramp."
     },
     {
       "id": "2",
@@ -159,6 +159,24 @@
       "tags": ["work", "ai"],
       "priority": "med",
       "notes": "MIT named generative coding a 2026 breakthrough. Opportunity to formalize team adoption plan."
+    },
+    {
+      "id": "21",
+      "title": "JPM DDQ Strategy Doc",
+      "desc": "Pull together DDQ completion roadmap: what's outstanding, who owns what, realistic timeline to close",
+      "status": "backlog",
+      "tags": ["work", "urgent"],
+      "priority": "high",
+      "notes": "Offered Feb 24. JPM DDQ causing stress + overdue task to add latest doc. Target: have it by noon."
+    },
+    {
+      "id": "22",
+      "title": "FE Quality Dashboard for Sasha",
+      "desc": "Compile current FE metrics (coverage %, open bugs, regression trends) and draft quality improvement plan",
+      "status": "backlog",
+      "tags": ["work"],
+      "priority": "high",
+      "notes": "Offered Feb 24. Sasha ramping up, quality task on Lars's list + Palantir testing article. For next manager check-in."
     }
   ]
 }
