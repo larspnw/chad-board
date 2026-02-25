@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-24T15:00:00Z",
+  "updated": "2026-02-25T15:00:00Z",
   "tasks": [
     {
       "id": "1",
@@ -8,8 +8,8 @@
       "status": "active",
       "tags": ["auto"],
       "priority": "high",
-      "lastRun": "2026-02-24T15:00:00Z",
-      "notes": "Feb 24 (Tue): Weekday briefing. Todoist: 47 tasks, 1 overdue (JPM DDQ doc), 1 tomorrow (pay bills 2/25). News: Claude Code + Cursor dominating 2026, Mira Murati's $2B raise, AI Second Wave shift to products. BC Bike Fest 2026 races. Reddit: XC nutrition (sugar intake golden), thetagang CSPs for volatility, r/ExperiencedDevs on Claude Code adoption + CTO 3mo AI progress. Offered: JPM DDQ strategy doc, Jira bug analyzer prototype, FE quality dashboard for Sasha ramp."
+      "lastRun": "2026-02-25T15:00:00Z",
+      "notes": "Feb 25 (Wed): Weekday briefing. Todoist: 48 tasks, 1 overdue (function health onboard), 4 due today (estate builder story, JPM update, slides, pay bills). News: Claude Code 75% success on 50k+ LOC, Anthropic $30B Series G at $380B, 17 AI companies raised $100M+ in 2026, recovery optimization trend. Reddit: XC gravel cross-training, kettlebell muscle gain, wheel strategy CSPs. Offered: estate builder story draft, FE quality dashboard for Sasha, Jira bug analyzer architecture."
     },
     {
       "id": "2",
@@ -177,6 +177,15 @@
       "tags": ["work"],
       "priority": "high",
       "notes": "Offered Feb 24. Sasha ramping up, quality task on Lars's list + Palantir testing article. For next manager check-in."
+    },
+    {
+      "id": "23",
+      "title": "Estate Builder Improvement Story",
+      "desc": "Scaffold product story with acceptance criteria, user flows, technical considerations for estate builder feature",
+      "status": "backlog",
+      "tags": ["work"],
+      "priority": "high",
+      "notes": "Offered Feb 25. Due today - can have scaffolded by 11am."
     }
   ]
 }
