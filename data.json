@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-25T15:00:00Z",
+  "updated": "2026-02-26T15:00:00Z",
   "tasks": [
     {
       "id": "1",
@@ -8,8 +8,8 @@
       "status": "active",
       "tags": ["auto"],
       "priority": "high",
-      "lastRun": "2026-02-25T15:00:00Z",
-      "notes": "Feb 25 (Wed): Weekday briefing. Todoist: 48 tasks, 1 overdue (function health onboard), 4 due today (estate builder story, JPM update, slides, pay bills). News: Claude Code 75% success on 50k+ LOC, Anthropic $30B Series G at $380B, 17 AI companies raised $100M+ in 2026, recovery optimization trend. Reddit: XC gravel cross-training, kettlebell muscle gain, wheel strategy CSPs. Offered: estate builder story draft, FE quality dashboard for Sasha, Jira bug analyzer architecture."
+      "lastRun": "2026-02-26T15:00:00Z",
+      "notes": "Feb 26 (Thu): Weekday briefing. Todoist: 48 tasks, 1 overdue (pay bills - Feb 25), 1 due tomorrow (mtb race reg - Feb 27), 1 due this week (weekly review - Mar 2). Top work priorities: VAI v2, AI Jira bug analyzer, FE quality, latency, reliability, burndown, OKRs/bonus FY27, mgr quality plans, superadmin scoping. News: AI coding 90% speedups on simple tasks (MIT), 50% CEOs say job security depends on AI (WEF), 2026 XC series ramping up, kettlebell 2x/week sufficient. Reddit: XC 2026 schedules, thetagang $250-350/wk premiums, Cursor vs Claude workflows, Seahawks FA 2026. Offered: Jira bug analyzer spec (EOD), weekly review pre-read (Sun), Mar 1 race nutrition plan."
     },
     {
       "id": "2",
