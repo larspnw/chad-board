@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-26T15:00:00Z",
+  "updated": "2026-02-27T15:00:00Z",
   "tasks": [
     {
       "id": "1",
@@ -8,8 +8,8 @@
       "status": "active",
       "tags": ["auto"],
       "priority": "high",
-      "lastRun": "2026-02-26T15:00:00Z",
-      "notes": "Feb 26 (Thu): Weekday briefing. Todoist: 48 tasks, 1 overdue (pay bills - Feb 25), 1 due tomorrow (mtb race reg - Feb 27), 1 due this week (weekly review - Mar 2). Top work priorities: VAI v2, AI Jira bug analyzer, FE quality, latency, reliability, burndown, OKRs/bonus FY27, mgr quality plans, superadmin scoping. News: AI coding 90% speedups on simple tasks (MIT), 50% CEOs say job security depends on AI (WEF), 2026 XC series ramping up, kettlebell 2x/week sufficient. Reddit: XC 2026 schedules, thetagang $250-350/wk premiums, Cursor vs Claude workflows, Seahawks FA 2026. Offered: Jira bug analyzer spec (EOD), weekly review pre-read (Sun), Mar 1 race nutrition plan."
+      "lastRun": "2026-02-27T15:00:00Z",
+      "notes": "Feb 27 (Fri): Weekday briefing. Todoist: 49 tasks, 1 overdue (pay bills - Feb 25), 0 due today, 1 due this week (weekly review - Mon Mar 2). Top work priorities: Jira bug analyzer, VAI v2 delivery, OKRs/bonus FY27, mgr quality accountability, superadmin scoping, FE quality/coverage, latency, reliability, burndown, app sec. Personal: ICE for family, codify Steve, FE testing article for Sasha. News: Cursor 4.9/5 dominates with repo awareness, Claude Code autonomous but costly, XC 2026 calendars filling (Oregon finals = hybrid event), gravel as XC training tool, Simple & Sinister gold standard. Reddit: XC race planning, Claude Code vs Cursor (workspace access $$), thetagang wheel 20-30% annual, race prep tips. Offered: Draft Jira bug analyzer spec (EOD), pull VAI v2 status, create FY27 mgr quality dashboard proposal."
     },
     {
       "id": "2",
