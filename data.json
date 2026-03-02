@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-01T15:05:00Z",
+  "updated": "2026-03-02T15:00:00Z",
   "tasks": [
     {
       "id": "1",
@@ -8,8 +8,8 @@
       "status": "active",
       "tags": ["auto"],
       "priority": "high",
-      "lastRun": "2026-03-01T15:05:00Z",
-      "notes": "Mar 1 (Sun): Weekend briefing. Skipped Todoist (weekends only). News: AI coding productivity panic deepens (Bloomberg - coding agents fueling build-at-any-cost race, METR confirms devs faster in 2026), Anthropic acquires Vercept for computer-use AI, MatX raises $500M for AI chips (Feb closes with $195B AI capital), 2026 XCO World Cup lineup confirmed (20 teams, 9 stops), Xcode 26.3 agentic coding. Reddit: r/xcmtb - USA Cycling race listings slow (check local shops), tire upgrades > bike upgrades for XC, r/cursor - Cursor for newbies/Claude Code for power users, r/dotnet - AI tools slowing some devs (debugging AI edits), r/thetagang - wheel strategy reality check (buy high CSP/sell low CC). Skipped snow report (couldn't verify good conditions). Offered: Build pre-race MTB checklist from Obsidian+Intervals.icu, AI coding adoption framework 1-pager for directs (tools/metrics tied to OKRs), pull last week's training data analysis from Intervals.icu."
+      "lastRun": "2026-03-02T15:00:00Z",
+      "notes": "Mar 2 (Mon): Weekday briefing. Todoist: 50+ tasks, 1 due today (weekly review P4), 1 due this week (hotel cincy Mar 6 P1), 9 work priorities (Jira bug analyzer, VAI v2, quality/latency/reliability, burndown, OKRs/bonus, mgr plans, superadmin scoping), 3 personal (ICE family, codify steve, Palantir FE article). News: AI coding tools (Cursor vs Copilot vs Claude Code - Cursor full IDE, Copilot seamless integration, Claude Code sub-minute builds), XC MTB (time-based training over distance, road work for precise intervals), kettlebells (Simple 32kg/Sinister 48kg, obsessive dedication needed), fitness (recovery as direct progress path, low-impact endurance work). Reading: AI workflows guide (graphite.com), MTB training tips (highnorth.co.uk), recovery science (usatriathlon.org). Reddit: r/xcmtb 2026 races + strategy, r/kettlebell S&S progression, r/thetagang wheel risks (stock drops/can't sell at cost basis), r/Seahawks offseason (3 corners, free agents Coby/Mafe/Woolen/KW3). Offered: Draft Jira bug analyzer architecture by EOD, compile weekly review pre-read (backlog/burndown/quality/latency data), build FE quality dashboard proposal for manager check-ins."
     },
     {
       "id": "2",
