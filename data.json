@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-02T15:00:00Z",
+  "updated": "2026-03-03T15:00:00Z",
   "tasks": [
     {
       "id": "1",
@@ -8,8 +8,8 @@
       "status": "active",
       "tags": ["auto"],
       "priority": "high",
-      "lastRun": "2026-03-02T15:00:00Z",
-      "notes": "Mar 2 (Mon): Weekday briefing. Todoist: 50+ tasks, 1 due today (weekly review P4), 1 due this week (hotel cincy Mar 6 P1), 9 work priorities (Jira bug analyzer, VAI v2, quality/latency/reliability, burndown, OKRs/bonus, mgr plans, superadmin scoping), 3 personal (ICE family, codify steve, Palantir FE article). News: AI coding tools (Cursor vs Copilot vs Claude Code - Cursor full IDE, Copilot seamless integration, Claude Code sub-minute builds), XC MTB (time-based training over distance, road work for precise intervals), kettlebells (Simple 32kg/Sinister 48kg, obsessive dedication needed), fitness (recovery as direct progress path, low-impact endurance work). Reading: AI workflows guide (graphite.com), MTB training tips (highnorth.co.uk), recovery science (usatriathlon.org). Reddit: r/xcmtb 2026 races + strategy, r/kettlebell S&S progression, r/thetagang wheel risks (stock drops/can't sell at cost basis), r/Seahawks offseason (3 corners, free agents Coby/Mafe/Woolen/KW3). Offered: Draft Jira bug analyzer architecture by EOD, compile weekly review pre-read (backlog/burndown/quality/latency data), build FE quality dashboard proposal for manager check-ins."
+      "lastRun": "2026-03-03T15:00:00Z",
+      "notes": "Mar 3 (Tue): Weekday briefing. Todoist: 48 tasks, 0 overdue, 0 due today, 2 due this week (hotel cincy Thu Mar 6, weekly review Mon Mar 9 P4). Work priorities: Jira bug analyzer, VAI v2 delivery, superadmin scoping, OKRs/bonus for directs, mgrs quality plans, FE coverage/bugs, latency, reliability, burndown, cogent appsec. Personal: ICE for family P2, codify steve P2, FE testing article P2. News: AI coding (Copilot 50% productivity boost, combo approach = in-editor + agentic, Claude Code for repo refactors), MTB (BC Bike Fest 2026 races, Giant Anthem redesign, USA Cycling Nationals), Tech (Anthropic acquires Vercept, MatX $500M, OpenAI $110B). Reddit: r/xcmtb content sources (GMBN, Dylan Johnson), r/thetagang WBD wheel, r/CoveredCalls stock repair, r/cursor Claude Code praise, r/ClaudeAI nested subagents. Offered: Jira bug analyzer spec by EOD, weekly review pre-read for Mon, FE quality dashboard consolidation."
     },
     {
       "id": "2",
