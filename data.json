@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-05T15:00:00Z",
+  "updated": "2026-03-06T15:00:00Z",
   "tasks": [
     {
       "id": "1",
@@ -8,8 +8,8 @@
       "status": "active",
       "tags": ["auto"],
       "priority": "high",
-      "lastRun": "2026-03-05T15:00:00Z",
-      "notes": "Mar 5 (Thu): Weekday briefing. Todoist: 49 tasks, 2 overdue (setup todoist/github, send jon jeavio), 1 due today (jpm response P3), 1 due this week (weekly review Mon Mar 9). Work priorities: Jira bug analyzer AI solution, VAI v2 delivery plan/focus/execution, tracking quality dashboard (code coverage/E2E/bugs), FE code coverage/regression/bugs, latency of core app, reliability FE+BE, burndown issues, OKRs/bonus for directs FY27, mgrs on quality FY27 plans, superadmin scoping. Personal: ICE for family, codify steve, estate doc. News: AI coding (Cursor for daily, Claude Code for refactors, Amazon Q for security - combo strategy), CTO leadership (blend strategic imagination + emotional depth + ethical judgment), Kettlebells (ACE study confirms aerobic capacity + dynamic balance + core strength), XC racing (2026 calendars out - AZ MBAA series). Reddit: r/xcmtb (hit race-length loop 1-2x/week for PRs), r/options (CSPs+CCs core, add defined-risk spreads, be selective on macro volatility), r/thetagang (select strikes above cost basis), r/kettlebell (Sinister needs obsessive dedication). Offered: Draft Jira bug analyzer spec by noon, pull FE quality dashboard data for mgrs conversation, prep Monday weekly review pre-read (backlog/burndown/VAI/metrics)."
+      "lastRun": "2026-03-06T15:00:00Z",
+      "notes": "Mar 6 (Fri): Weekday briefing. Todoist: 48 tasks, 4 with due dates, 0 overdue, 0 due today, 1 due this week (weekly review Mon Mar 9). Top work priorities: Quality tracking (FE code coverage, E2e tests, dashboard), AI Jira bug analyzer, VAI v2 delivery plan/focus/execution, OKR for directs + bonus FY27, Mgrs accountability for quality FY27 plans, Superadmin scoping. Personal: ICE for family, codify Steve, FE testing article for Sasha. News: AI coding (MIT questions illusory productivity gains, r/datascience says wins from standardizing prompts/conventions), MTB (BC Bike Race new XC/Enduro/DH events, Oregon XC finals), Fitness (TrainingPeaks kettlebell guide for endurance athletes). Reddit: r/ExperiencedDevs (team adopted Claude Code as standardized environment), r/thetagang (real Wheel example $99 put $81 premium), r/xcmtb (2026 race schedules), r/ExperiencedDevs (500 devs at 4 orgs rolling out AI tools, dedicated governance teams). Offered: Spec FE Quality Dashboard (metrics + tooling for mgr check-in), Design Jira Bug Analyzer (webhook → LLM → vector search → root cause), Monday Weekly Review Pre-Read (backlog/burndown/blockers)."
     },
     {
       "id": "2",
