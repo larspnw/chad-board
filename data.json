@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-07T15:00:00Z",
+  "updated": "2026-03-08T15:00:00Z",
   "tasks": [
     {
       "id": "1",
@@ -9,7 +9,7 @@
       "tags": ["auto"],
       "priority": "high",
       "lastRun": "2026-03-07T15:00:00Z",
-      "notes": "Mar 7 (Sat): Weekend briefing. Todoist section skipped (weekend). News: AI coding (Claude Cowork builds websites in minutes per WaPo, top 2026 tools breakdown, focus on integration depth + privacy), MTB (Specialized XC dominance deep dive, OneUp XC Clip Pedals 303g, Crux gravel redesign speculation), Fitness (UCLA muscle aging study on NDRG1 protein, strength training as preventative medicine). Recommended reading: AI productivity tools guide, strength training positive effects. Reddit: r/xcmtb (content sources - Brujula Bike, Dylan Johnson), r/thetagang (2SD call credit spread pattern), r/ClaudeAI (10k+ org Claude Code + Cursor Enterprise rollout), r/options (value investor CSP/CC strategies), r/Seahawks (Kenneth Walker III pricing out at $13M+). Offered: Pull Intervals.icu data for training load analysis, scan r/xcmtb for WSMTB race reports, draft State of AI Coding Tools 2026 brief for team."
+      "notes": "Mar 8 (Sun): Weekend briefing. Todoist section skipped (weekend). News: AI coding (Render benchmark Mar 2025 - Cursor leads on setup/deploy, Claude Code wins for prototypes/terminal UX, 10k+ org enterprise rollouts), MTB (Oregon XC Series finals Mar 22), Fitness (ACSM 2025: strength training #5 trend, Life Time survey 82% wellbeing focus, CNN on strength & longevity). Reddit: r/xcmtb (cornering > power on tight courses, 48hr pre-race rest), r/kettlebell (S&S progression to Timeless Sinister), r/thetagang (wheel strategy risk reminder), r/ClaudeAI (Claude Code best agent per 267 upvote thread, specialized agent collections), r/Seahawks ($22M cap space, 2026 prep discussion). Offered: Intervals.icu Kettles race analysis, AI coding rollout proposal, update race-calendar.md with next WSMTB event."
     },
     {
       "id": "2",
