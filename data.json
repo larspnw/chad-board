@@ -8,8 +8,8 @@
       "status": "active",
       "tags": ["auto"],
       "priority": "high",
-      "lastRun": "2026-03-09T15:00:00Z",
-      "notes": "Mar 9 (Mon): Weekday briefing. Todoist: 50 total, 1 overdue (latacora docs), 1 due today (weekly review). News: AI coding (Claude Code now leads market per Pragmatic Engineer survey, +340% enterprise adoption H1 2025), MTB (Oregon XC Series starts April), Kettlebells (S&S winter challenge ongoing). Reddit: r/xcmtb (training loops, tire picks), r/kettlebell (S&S progression tips), r/thetagang (wheel strategy with $20k), r/ClaudeAI (Claude Code best agent - 267 upvotes), r/Seahawks ($22M cap space, extension talks), r/ExperiencedDevs (AI mandates: offer→ask→mandate). Offered: AI coding rollout proposal, Jira bug analyzer spec, weekly review pre-read."
+      "lastRun": "2026-03-10T15:00:00Z",
+      "notes": "Mar 10 (Tue): Weekday briefing. Todoist: 50 total, 0 overdue, 0 due today, 1 due this week (weekly review Mar 16). News: AI coding (Cursor leads on setup/Docker, Claude Code wins for prototypes/terminal UX), MTB (Oregon XC Series expanding), Kettlebells (S&S Jan 2025 challenges). Reddit: r/xcmtb (cornering > power, polarized training), r/kettlebell (S&S progression), r/options (421 trades, 99% CSPs/CCs, 19% returns), r/ClaudeAI (Cursor→Claude Code migration). Offered: Superadmin scoping doc, FE quality dashboard for Sasha, training data analysis."
     },
     {
       "id": "2",
