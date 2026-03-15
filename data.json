@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-11T15:00:00Z",
+  "updated": "2026-03-14T19:20:00Z",
   "tasks": [
     {
       "id": "1",
@@ -8,8 +8,8 @@
       "status": "active",
       "tags": ["auto"],
       "priority": "high",
-      "lastRun": "2026-03-11T15:00:00Z",
-      "notes": "Mar 11 (Wed): Weekday briefing. Todoist: 50 total, 0 overdue, 0 due today, 1 due this week (weekly review Mar 16). News: AI coding (95% devs use AI weekly, Cursor +35%, Codex at 60% of Cursor usage, 55% use agents), MTB (BC Bike Fest 2026, Oregon XC Series), Kettlebells (S&S standard, Plan Strong May 2-3). Reddit: r/xcmtb (80/20 polarized training), r/kettlebell (6mo bell progression), r/options (2025 recap 421 trades/19% return), r/cscareerquestions (AI as tool not magic). Offered: Jira Bug Analyzer spec, AI Coding Rollout Proposal, Lord Hill race prep (11 days out)."
+      "lastRun": "2026-03-14T19:20:00Z",
+      "notes": "Mar 14 (Sat): Weekend briefing - skipped Todoist (weekend). News: AI coding (Cursor leads on setup/Docker, Claude Code for prototypes, Gemini for large refactors), Startups (OpenAI $40B, Rhoda AI $450M, Waiv $33M). Reddit: r/xcmtb (XC training 2-3x strength), r/options (421 trades/99% wheel), r/ClaudeCode (6+ agent teams, coordination bottleneck), r/Optionswheel (NVDL wheel survivor), r/MCFC (transfer spending). Skipped snow report (Snoqualmie Pass Level 3 Considerable avy danger). Offered: AI coding stack audit, Monday prep, race season check-in."
     },
     {
       "id": "2",
