@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-14T19:20:00Z",
+  "updated": "2026-03-16T08:05:00Z",
   "tasks": [
     {
       "id": "1",
@@ -8,8 +8,8 @@
       "status": "active",
       "tags": ["auto"],
       "priority": "high",
-      "lastRun": "2026-03-14T19:20:00Z",
-      "notes": "Mar 14 (Sat): Weekend briefing - skipped Todoist (weekend). News: AI coding (Cursor leads on setup/Docker, Claude Code for prototypes, Gemini for large refactors), Startups (OpenAI $40B, Rhoda AI $450M, Waiv $33M). Reddit: r/xcmtb (XC training 2-3x strength), r/options (421 trades/99% wheel), r/ClaudeCode (6+ agent teams, coordination bottleneck), r/Optionswheel (NVDL wheel survivor), r/MCFC (transfer spending). Skipped snow report (Snoqualmie Pass Level 3 Considerable avy danger). Offered: AI coding stack audit, Monday prep, race season check-in."
+      "lastRun": "2026-03-16T08:05:00Z",
+      "notes": "Mar 16 (Mon): Weekday briefing. Todoist: 50 tasks, 3 due this week (weekly review, pay bills, review purpose). News: Claude Code now 46% 'most loved' vs Cursor 19%, both at $2B+ ARR. Reddit: r/MTB (XC/enduro bike choice), r/kettlebell (dbl KB work), r/Seahawks (Shaheed re-signed 3yr/$51M), r/options (safe haven thread), r/msp (AI adoption framing). Offered: Lord Hill race prep (6 days), VAI v2 roadmap, weekly review pre-read."
     },
     {
       "id": "2",
