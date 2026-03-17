@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-16T08:05:00Z",
+  "updated": "2026-03-17T08:05:00Z",
   "tasks": [
     {
       "id": "1",
@@ -8,8 +8,8 @@
       "status": "active",
       "tags": ["auto"],
       "priority": "high",
-      "lastRun": "2026-03-16T08:05:00Z",
-      "notes": "Mar 16 (Mon): Weekday briefing. Todoist: 50 tasks, 3 due this week (weekly review, pay bills, review purpose). News: Claude Code now 46% 'most loved' vs Cursor 19%, both at $2B+ ARR. Reddit: r/MTB (XC/enduro bike choice), r/kettlebell (dbl KB work), r/Seahawks (Shaheed re-signed 3yr/$51M), r/options (safe haven thread), r/msp (AI adoption framing). Offered: Lord Hill race prep (6 days), VAI v2 roadmap, weekly review pre-read."
+      "lastRun": "2026-03-17T08:05:00Z",
+      "notes": "Mar 17 (Tue): Weekday briefing. Todoist: 50 tasks, 2 due this week (weekly review 3/23, pay bills 3/25). News: AI coding 'productivity panic' per Bloomberg, Claude Cowork tested by WaPo. Reddit: r/xcmtb (2026 race schedules), r/kettlebell (S&S as diagnostic), r/CoveredCalls (wheel strategy primer), r/Seahawks (JSN/Spoon 5th-year options), r/ClaudeAI (CODE MAX vs Cursor PRO comparison). Offered: VAI v2 roadmap, Hampsten bike prep checklist, FE quality metrics one-pager for Sasha."
     },
     {
       "id": "2",
