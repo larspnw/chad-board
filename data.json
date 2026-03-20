@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-18T08:05:00Z",
+  "updated": "2026-03-20T08:05:00Z",
   "tasks": [
     {
       "id": "1",
@@ -8,8 +8,8 @@
       "status": "active",
       "tags": ["auto"],
       "priority": "high",
-      "lastRun": "2026-03-17T08:05:00Z",
-      "notes": "Mar 17 (Tue): Weekday briefing. Todoist: 50 tasks, 2 due this week (weekly review 3/23, pay bills 3/25). News: AI coding 'productivity panic' per Bloomberg, Claude Cowork tested by WaPo. Reddit: r/xcmtb (2026 race schedules), r/kettlebell (S&S as diagnostic), r/CoveredCalls (wheel strategy primer), r/Seahawks (JSN/Spoon 5th-year options), r/ClaudeAI (CODE MAX vs Cursor PRO comparison). Offered: VAI v2 roadmap, Hampsten bike prep checklist, FE quality metrics one-pager for Sasha."
+      "lastRun": "2026-03-20T08:05:00Z",
+      "notes": "Mar 20 (Fri): Weekday briefing. Todoist: 79 tasks, 1 due today (dacodes), 4 this week. News: OpenAI $40B raise, Nvidia Nano 4x throughput, AI coding everywhere per MIT Tech Review. Peter Attia on 60 Minutes re: marginal decade + VO2 max. Reddit: r/xcmtb (48hr rule before races), r/aiagents (Cursor vs Claude debate), r/datascience (LLMs as junior devs), r/options (wheel recap), r/Seahawks (cap analysis), r/ExperiencedDevs (AI success stories). Offered: VAI v2 delivery plan, Monday weekly review pre-read, Hampsten bike setup research."
     },
     {
       "id": "2",
