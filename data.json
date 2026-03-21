@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-20T08:05:00Z",
+  "updated": "2026-03-21T15:15:00Z",
   "tasks": [
     {
       "id": "1",
@@ -8,8 +8,8 @@
       "status": "active",
       "tags": ["auto"],
       "priority": "high",
-      "lastRun": "2026-03-20T08:05:00Z",
-      "notes": "Mar 20 (Fri): Weekday briefing. Todoist: 79 tasks, 1 due today (dacodes), 4 this week. News: OpenAI $40B raise, Nvidia Nano 4x throughput, AI coding everywhere per MIT Tech Review. Peter Attia on 60 Minutes re: marginal decade + VO2 max. Reddit: r/xcmtb (48hr rule before races), r/aiagents (Cursor vs Claude debate), r/datascience (LLMs as junior devs), r/options (wheel recap), r/Seahawks (cap analysis), r/ExperiencedDevs (AI success stories). Offered: VAI v2 delivery plan, Monday weekly review pre-read, Hampsten bike setup research."
+      "lastRun": "2026-03-21T15:15:00Z",
+      "notes": "Mar 21 (Sat): Weekend briefing. No Todoist (weekend). News: Claude Code leads dev preference at 46% vs Cursor 19% per Pragmatic Engineer. Bloomberg on AI productivity panic. Reddit: r/xcmtb (48hr rule), r/options (wheel strategy recap), r/ClaudeAI (enterprise adoption), r/ExperiencedDevs (AI success stories), r/Seahawks (draft blog), r/kettlebell (S&S progression). Snow: High avy danger, NWAC warning 3/22-3/23 — skipped backcountry rec. Offered: Jira bug analyzer spec, Intervals.icu March review, AI coding rollout proposal."
     },
     {
       "id": "2",
