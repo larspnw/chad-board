@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-21T15:15:00Z",
+  "updated": "2026-03-22T15:07:00Z",
   "tasks": [
     {
       "id": "1",
@@ -8,8 +8,8 @@
       "status": "active",
       "tags": ["auto"],
       "priority": "high",
-      "lastRun": "2026-03-21T15:15:00Z",
-      "notes": "Mar 21 (Sat): Weekend briefing. No Todoist (weekend). News: Claude Code leads dev preference at 46% vs Cursor 19% per Pragmatic Engineer. Bloomberg on AI productivity panic. Reddit: r/xcmtb (48hr rule), r/options (wheel strategy recap), r/ClaudeAI (enterprise adoption), r/ExperiencedDevs (AI success stories), r/Seahawks (draft blog), r/kettlebell (S&S progression). Snow: High avy danger, NWAC warning 3/22-3/23 — skipped backcountry rec. Offered: Jira bug analyzer spec, Intervals.icu March review, AI coding rollout proposal."
+      "lastRun": "2026-03-22T15:05:00Z",
+      "notes": "Mar 22 (Sun): Weekend briefing. No Todoist (weekend). News: Cursor hit $30B valuation (from $2.5B at start of 2025). Claude Code vs Cursor benchmarks show Claude excels at terminal UX + autonomous coding, Cursor leads on IDE integration. Reddit: r/xcmtb (48hr rule, cornering beats watts), r/kettlebell (S&S progression to Timeless Sinister), r/CoveredCalls (wheel strategy primer), r/ClaudeAI (enterprise pricing hitting teams at 150+ users), r/Seahawks (5th-year options on JSN and Witherspoon). Snow: Late March conditions, couldn't confirm avy forecast — skipped rec. Offered: Jira bug analyzer spec, Intervals.icu March review, AI coding rollout proposal."
     },
     {
       "id": "2",
