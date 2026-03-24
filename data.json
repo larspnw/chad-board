@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-23T15:10:00Z",
+  "updated": "2026-03-24T15:15:00Z",
   "tasks": [
     {
       "id": "1",
@@ -8,8 +8,8 @@
       "status": "active",
       "tags": ["auto"],
       "priority": "high",
-      "lastRun": "2026-03-22T15:05:00Z",
-      "notes": "Mar 23 (Mon): Weekday briefing. 50 tasks total, 2 due this week. News: Cursor at crossroads - Anthropic trying to drown them out with Claude Code pricing. Cursor building Composer model. Reddit: r/options (2025 wheel recap, 421 trades), r/ExperiencedDevs (CTO roadmap), r/Seahawks (free agents), r/kettlebell (S&S success @ 32kg). Offered: VAI v2 plan, Henry's Ridge checklist, FE quality dashboard."
+      "lastRun": "2026-03-24T15:15:00Z",
+      "notes": "Mar 24 (Tue): 50 tasks total, 2 due this week. News: Devin $73M ARR, Corridor $25M, BlueFlag $16.5M. Reddit: r/options (challenging wheel market), r/ExperiencedDevs (architect gap, task switching). Offered: Hampsten bike setup, VAI v2 plan, Manager Quality FY27 framework."
     },
     {
       "id": "2",
