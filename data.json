@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-24T15:15:00Z",
+  "updated": "2026-03-27T15:05:00Z",
   "tasks": [
     {
       "id": "1",
@@ -8,8 +8,8 @@
       "status": "active",
       "tags": ["auto"],
       "priority": "high",
-      "lastRun": "2026-03-24T15:15:00Z",
-      "notes": "Mar 24 (Tue): 50 tasks total, 2 due this week. News: Devin $73M ARR, Corridor $25M, BlueFlag $16.5M. Reddit: r/options (challenging wheel market), r/ExperiencedDevs (architect gap, task switching). Offered: Hampsten bike setup, VAI v2 plan, Manager Quality FY27 framework."
+      "lastRun": "2026-03-27T15:05:00Z",
+      "notes": "Mar 27 (Fri): 48 tasks total, 1 overdue (pay bills), 1 due today (jpm sow). News: Claude Code vs Cursor 2026 consensus, VO2max longevity research. Reddit: r/xcmtb (gravel for XC training), r/kettlebell (S&S low recovery demands), r/options (wheel drawdown risks), r/Seahawks (2027 draft strategy). Offered: JPM SOW draft, Hampsten bike prep workflow, Weekly review pre-read."
     },
     {
       "id": "2",
