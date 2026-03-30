@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-28T15:20:00Z",
+  "updated": "2026-03-30T16:18:00Z",
   "tasks": [
     {
       "id": "1",
@@ -8,8 +8,8 @@
       "status": "active",
       "tags": ["auto"],
       "priority": "high",
-      "lastRun": "2026-03-30T15:08:00Z",
-      "notes": "Mar 30 (Mon): 48 tasks total, 0 overdue, 3 due today (weekly review, UBS, retirement calc). News: Dora report 80% dev productivity gains, GitHub Copilot 20M+ users, Nvidia Llama Nemotron 500B model. Reddit: r/ClaudeAI (treat AI like junior dev), r/kettlebell (16kg+20kg setup), r/options (SLV wheel starter), r/Seahawks (JSN $168.6M extension). Offered: Weekly review pre-read, Hampsten bike workflow, CodeQL security brief."
+      "lastRun": "2026-03-30T16:18:00Z",
+      "notes": "Mar 30 (Mon): 48 tasks total, 0 overdue, 3 due today (weekly review, UBS, retirement calc). News: AI coding 80% productivity gains (Dora), GitHub Copilot 20M users, Zencoder/Windsurf launches. Reddit: r/ClaudeAI (treat AI like junior dev), r/Seahawks (JSN $168.6M extension value), r/options (SLV covered call beginner strategy). Offered: Weekly review pre-read, Hampsten bike workflow, CodeQL brief."
     },
     {
       "id": "2",
