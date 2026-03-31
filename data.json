@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-30T16:18:00Z",
+  "updated": "2026-03-31T15:14:00Z",
   "tasks": [
     {
       "id": "1",
@@ -8,8 +8,8 @@
       "status": "active",
       "tags": ["auto"],
       "priority": "high",
-      "lastRun": "2026-03-30T16:18:00Z",
-      "notes": "Mar 30 (Mon): 48 tasks total, 0 overdue, 3 due today (weekly review, UBS, retirement calc). News: AI coding 80% productivity gains (Dora), GitHub Copilot 20M users, Zencoder/Windsurf launches. Reddit: r/ClaudeAI (treat AI like junior dev), r/Seahawks (JSN $168.6M extension value), r/options (SLV covered call beginner strategy). Offered: Weekly review pre-read, Hampsten bike workflow, CodeQL brief."
+      "lastRun": "2026-03-31T15:14:00Z",
+      "notes": "Mar 31 (Tue): 51 tasks total, 0 overdue, 3 due today (chief of staff agent, ping kalea, chk taxes). News: AI coding productivity gains accelerating (METR), 3.6 hrs/week saved. Reddit: r/ClaudeAI (top 10 tips), r/Seahawks (JSN/Spoon extension strategy), r/options (2025 wheel recap). Offered: Chief of Staff agent spec, AI SDLC rollout plan, options expiration decision tree."
     },
     {
       "id": "2",
@@ -195,6 +195,33 @@
       "tags": ["personal", "mtb", "data"],
       "priority": "med",
       "notes": "Offered Mar 1. Could surface insights for this week's training block or flag overtraining risks before next WSMTB race."
+    },
+    {
+      "id": "25",
+      "title": "Chief of Staff Agent Spec",
+      "desc": "Design doc for new 'build chief of staff agent for me' task. Scope, integrations, decision frameworks, handoff protocols.",
+      "status": "offered",
+      "tags": ["work", "ai"],
+      "priority": "high",
+      "notes": "Offered Mar 31. Lars added task today. Can have v1 architecture by EOD."
+    },
+    {
+      "id": "26",
+      "title": "AI SDLC Rollout Plan for Directs",
+      "desc": "Structured rollout: current state assessment, pilot program, metrics (PR throughput, review time, bug rate), 30/60/90 day milestones.",
+      "status": "offered",
+      "tags": ["work", "ai", "directs"],
+      "priority": "high",
+      "notes": "Offered Mar 31. Task sitting in list. Ready for next directs meeting."
+    },
+    {
+      "id": "27",
+      "title": "Options Expiration Decision Tree",
+      "desc": "Flowchart for 'wheel when expired what to do' task. CC expired → roll/up/out/take assignment; CSP expired → roll or take shares; VIX-based adjustment rules.",
+      "status": "offered",
+      "tags": ["personal", "options"],
+      "priority": "med",
+      "notes": "Offered Mar 31. Task from yesterday. Can build visual decision tree with rules."
     }
   ]
 }
