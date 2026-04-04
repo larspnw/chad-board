@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-03T15:05:00Z",
+  "updated": "2026-04-04T15:05:00Z",
   "tasks": [
     {
       "id": "1",
@@ -8,8 +8,8 @@
       "status": "active",
       "tags": ["auto"],
       "priority": "high",
-      "lastRun": "2026-03-31T15:14:00Z",
-      "notes": "Apr 3 (Fri): 50 tasks total, 0 overdue, 1 due today (stick turo). News: Trust is the AI bottleneck (Fortune), Gemma 4 released, longevity overtaking weight loss as top fitness trend. Reddit: r/xcmtb (2026 race schedules), r/thetagang (Good Friday market closure), r/ClaudeAI (CC vs Cursor vs Augment consensus). Offered: Chief of Staff agent spec, Options expiration decision tree, 2026 WSMTB season retrospective."
+      "lastRun": "2026-04-04T15:05:00Z",
+      "notes": "Apr 4 (Sat): Weekend - no Todoist check. News: Cursor vs Claude Code benchmark (Render), XC training pillars, S&S progression tips. Reddit: r/options (2025 wheel recap), r/Optionswheel (covered strangle), r/nfl (Seahawks/Bengals offseason reviews), r/vibecoding (CC vs Cursor). Snow: SKIP IT (57% normal, spring conditions). Offered: Chief of Staff agent spec, WSMTB season retrospective, Options expiration decision tree."
     },
     {
       "id": "2",
