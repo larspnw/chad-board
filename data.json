@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-04T15:05:00Z",
+  "updated": "2026-04-05T15:05:00Z",
   "tasks": [
     {
       "id": "1",
@@ -8,8 +8,8 @@
       "status": "active",
       "tags": ["auto"],
       "priority": "high",
-      "lastRun": "2026-04-04T15:05:00Z",
-      "notes": "Apr 4 (Sat): Weekend - no Todoist check. News: Cursor vs Claude Code benchmark (Render), XC training pillars, S&S progression tips. Reddit: r/options (2025 wheel recap), r/Optionswheel (covered strangle), r/nfl (Seahawks/Bengals offseason reviews), r/vibecoding (CC vs Cursor). Snow: SKIP IT (57% normal, spring conditions). Offered: Chief of Staff agent spec, WSMTB season retrospective, Options expiration decision tree."
+      "lastRun": "2026-04-05T15:05:00Z",
+      "notes": "Apr 5 (Sun): Weekend - no Todoist check. News: Cursor leads on setup/deploy, Claude Code for rapid prototypes (Render benchmark). Reddit: r/options (2025 wheel recap - 421 trades, 99% CSPs/CCs, 19% return), r/xcmtb (XC training for beginners), r/ClaudeAI (enterprise adoption advice - pilot programs). Snow: SKIP (45% average, 0\" last 24h, spring conditions). Offered: Chief of Staff agent spec, AI SDLC rollout plan, Options expiration decision tree."
     },
     {
       "id": "2",
