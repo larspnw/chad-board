@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-05T15:05:00Z",
+  "updated": "2026-04-07T15:10:00Z",
   "tasks": [
     {
       "id": "1",
@@ -8,8 +8,8 @@
       "status": "active",
       "tags": ["auto"],
       "priority": "high",
-      "lastRun": "2026-04-06T15:09:00Z",
-      "notes": "Apr 6 (Mon): 50 Todoist tasks (3 due this week, 0 overdue). News: Cursor hits $2B ARR, Claude Code leads satisfaction; Q1 2026 record $300B VC funding; OpenAI acquired TBPN media. Reddit: r/xcmtb (gravel bike as XC training tool), r/options (wheel strategy 20 Delta rule), r/Seahawks (Mafe to Bengals 3yr/$60m), r/kettlebell (2026 S&S goals), r/ClaudeAI (Claude 5 Q2 prediction). Snow: SKIP. Offered: Todoist burndown analysis, post-race training block plan, AI SDLC rollout doc."
+      "lastRun": "2026-04-07T15:10:00Z",
+      "notes": "Apr 7 (Tue): 50 Todoist tasks (5 with due dates, 2 due today, 0 overdue). News: Cursor 3 agent-first IDE, Claude Code leads satisfaction, VO2max longevity research. Reddit: r/xcmtb (XC training tips), r/kettlebell (S&S progression), r/options (wheel strategy guide), r/ClaudeAI (AI orchestration layer). Offered: Brandon doc review completion, weekly review prep, Mike/Karen notes."
     },
     {
       "id": "2",
