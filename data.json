@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-07T15:10:00Z",
+  "updated": "2026-04-11T15:05:00Z",
   "tasks": [
     {
       "id": "1",
@@ -8,8 +8,8 @@
       "status": "active",
       "tags": ["auto"],
       "priority": "high",
-      "lastRun": "2026-04-11T14:45:00Z",
-      "notes": "Apr 11 (Sat): Weekend. Weather: Rain moving in, mid-60s highs. Seahawks SB champions! News: NYT says AI creating 'code overload', Accenture invests in Replit, Bret Taylor says era of clicking buttons is over. MTB: Trek prototype XC bike, new Reserve 30|XC SL wheels, Sea Otter Classic. Reddit: XC training for 14yo racer, options trading risk management. Suggestions: Chief of Staff agent spec, AI SDLC rollout for directs, Options decision tree."
+      "lastRun": "2026-04-11T15:05:00Z",
+      "notes": "Apr 11 (Sat): Weekend. AI coding market $500M→$5B+ in 1yr (Cursor $2B ARR, Claude Code $2.5B). Koretzky out with fractured humerus. ACSM 2026 trends: wearable tech, older adults, free weights. Seahawks: key offseason cap decisions (JSN $42M/yr). Reddit: Cursor vs Claude Code debate, Seahawks SB opener Sept 9. Snow: Skipped (mid-April)."
     },
     {
       "id": "2",
